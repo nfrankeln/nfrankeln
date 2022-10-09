@@ -9,7 +9,7 @@
    Its been about 6 months since I started. Since then I have learned the basics of HTML,CSS and JS.
    I am also attending a programming boocamp called CODE PLATOON. 
 
-You can reach me at (ntnyfranky@gmailcom) 
+You can reach me at (ntnyfranky@gmail.com) 
 
 www.linkedin.com/in/netanel-frankel
 
