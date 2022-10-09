@@ -6,7 +6,7 @@
    I’m looking to collaborate on simple front end projects
    
    Update:
-   Its been about 6 months since I started. Since then I have learned the basics of HTML,CSS and JS
+   Its been about 6 months since I started. Since then I have learned the basics of HTML,CSS and JS.
    I am also attending a programming boocamp called CODE PLATOON. 
 
 You can reach me at (ntnyfranky@gmailcom) 
