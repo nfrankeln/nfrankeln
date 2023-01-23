@@ -8,6 +8,10 @@
    Update:
    Its been about 6 months since I started. Since then I have learned the basics of HTML,CSS and JS.
    I am also attending a programming boocamp called CODE PLATOON. 
+   
+   Update 2: 
+     I have just graduated from CODE PLATOON. It was a valuable experiance. Some of the new skills I learned were Python,Django,React,Postgresql.
+     
 
 You can reach me at (ntnyfranky@gmail.com) 
 
