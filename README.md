@@ -6,14 +6,23 @@
    I’m looking to collaborate on simple front end projects
    
    Update:
-   Its been about 6 months since I started. Since then I have learned the basics of HTML,CSS and JS.
+   Its been about 4 months since I started. Since then I have learned the basics of HTML,CSS and JS.
    I am also attending a programming boocamp called CODE PLATOON. 
    
    Update 2: 
      I have just graduated from CODE PLATOON. It was a valuable experiance. Some of the new skills I learned were Python,Django,React,Postgresql.
-     
+   
+   Update 3: 
+      I deployed my first project [Carjamz](https://nf-carjamz.com/) 
+      
+      To test it out 
+      - 1) sign into a demo account username: carjamzdemo@gmail.com password: demo
+      - 2) search for another user i.e ntnyfranky@gmail.com
+      
+Until spotify gives me a quota extension this app is locked in development mode and I have to whitelist spotify users manually.
+So if you want to try it out with your own spotify account/a freinds account just shoot me a message
 
-You can reach me at (ntnyfranky@gmail.com) 
+My email is ntnyfranky@gmail.com 
 
 www.linkedin.com/in/netanel-frankel
 
