@@ -5,27 +5,26 @@
    Harvard's CS 50 course to learn about a broad range of computer science topics
    I’m looking to collaborate on simple front end projects
    
-   Update:
-   Its been about 4 months since I started. Since then I have learned the basics of HTML,CSS and JS.
-   I am also attending a programming boocamp called CODE PLATOON. 
-   
-   Update 2: 
-     I have just graduated from CODE PLATOON. It was a valuable experiance. Some of the new skills I learned were Python,Django,React,Postgresql.
-   
-   Update 3: 
-      I deployed my first project [Carjamz](https://nf-carjamz.com/) 
-      
-      To test it out 
-      - 1) sign into a demo account username: carjamzdemo@gmail.com password: demo
-      - 2) search for another user i.e ntnyfranky@gmail.com
-      
-Update 4)
+### Update 1:
+Its been about 4 months since I started. Since then I have learned the basics of HTML,CSS and JS.
+I am also attending a programming boocamp called CODE PLATOON. 
 
-         Started exploring more frontend tools and frameworks
-         
-        completed a [mini dog adoption website](https://stellar-sprinkles-826280.netlify.app/)
+### Update 2: 
+  I have just graduated from CODE PLATOON. It was a valuable experiance. Some of the new skills I learned were Python,Django,React,Postgresql.
+
+### Update 3: 
+   I deployed my first project [Carjamz](https://nf-carjamz.com/) 
+
+   To test it out 
+   - 1) sign into a demo account username: carjamzdemo@gmail.com password: demo
+   - 2) search for another user i.e ntnyfranky@gmail.com
+    
+   ### Update 4:
+Started exploring more frontend tools and frameworks
+
+completed a [mini dog adoption website](https://stellar-sprinkles-826280.netlify.app/)
       
-      The login component doesnt actually save your email or name
+The login component doesnt actually save your email or name
       
 Until spotify gives me a quota extension this app is locked in development mode and I have to whitelist spotify users manually.
 So if you want to try it out with your own spotify account/a freinds account just shoot me a message
