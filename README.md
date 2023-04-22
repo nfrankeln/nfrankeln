@@ -18,8 +18,12 @@
       To test it out 
       - 1) sign into a demo account username: carjamzdemo@gmail.com password: demo
       - 2) search for another user i.e ntnyfranky@gmail.com
-    Update 4 
-         completed a [mini dog adoption website] (https://stellar-sprinkles-826280.netlify.app/)
+      
+Update 4)
+
+         Started exploring more frontend tools and frameworks
+         
+        completed a [mini dog adoption website](https://stellar-sprinkles-826280.netlify.app/)
       
       The login component doesnt actually save your email or name
       
