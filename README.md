@@ -18,6 +18,10 @@
       To test it out 
       - 1) sign into a demo account username: carjamzdemo@gmail.com password: demo
       - 2) search for another user i.e ntnyfranky@gmail.com
+    Update 4 
+         completed a [mini dog adoption website] (https://stellar-sprinkles-826280.netlify.app/)
+      
+      The login component doesnt actually save your email or name
       
 Until spotify gives me a quota extension this app is locked in development mode and I have to whitelist spotify users manually.
 So if you want to try it out with your own spotify account/a freinds account just shoot me a message
