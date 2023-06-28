@@ -30,6 +30,10 @@ Started exploring more frontend tools and frameworks
 completed a [mini dog adoption website](https://stellar-sprinkles-826280.netlify.app/)
       
 The login component doesnt actually save your email or name
+
+   ### Update 5 
+Spent 2 weeks getting familiar with figma and now Im starting to learn JAVA!
+My next project will be a web app for a local charity Im so excited!
       
 
 
