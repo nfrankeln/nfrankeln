@@ -22,7 +22,7 @@ I am also attending a programming boocamp called CODE PLATOON.
 Until spotify gives me a quota extension this app is locked in development mode and I have to whitelist spotify users manually.
 So if you want to try it out with your own spotify account/a freinds account just shoot me a message
 
-My email is ntnyfranky@gmail.com 
+
     
    ### Update 4:
 Started exploring more frontend tools and frameworks
