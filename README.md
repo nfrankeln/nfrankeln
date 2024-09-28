@@ -34,6 +34,10 @@ The login component doesnt actually save your email or name
    ### Update 5 
 Spent 2 weeks getting familiar with figma and now Im starting to learn JAVA!
 My next project will be a web app for a local charity Im so excited!
+
+   ### Update 6 
+
+   Been about a year since I posted. Been working at my first job as a dev might do some more projects might not idk cio 
       
 
 
