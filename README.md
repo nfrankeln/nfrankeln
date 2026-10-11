@@ -6,14 +6,14 @@ Professionally, I work on a digital banking platform serving over 500 financial 
 
 Outside of work, I enjoy experimenting with modern frameworks, learning new technologies, and turning ideas into working applications.
 
-### 🛠 What I work with
+###  Technologies 
 
 - **Frontend:** React, TypeScript, JavaScript, Astro, Tailwind CSS
 - **Backend:** C#, ASP.NET, .NET Framework, Node.js
 - **Databases:** SQL Server, PostgreSQL
 - **Tools:** Git, GitHub Actions, Visual Studio, VS Code
 
-### 🚀 Projects
+### Projects
 
 **[Shoresh](https://learnshoresh.com/)** — A Hebrew-learning application built with Astro, React, TypeScript, and PostgreSQL. Features vocabulary tracking, interactive lessons, word morphology, and tools for managing and improving language data.
 
