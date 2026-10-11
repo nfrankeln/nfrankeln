@@ -21,7 +21,7 @@ Outside of work, I enjoy experimenting with modern frameworks, learning new tech
 
 **Amazon X-RAY Manager** — A Chrome extension that gives users control over Amazon Prime Video's X-Ray interface.
 
-### 💡 What interests me
+### What interests me
 
 I particularly enjoy work that combines engineering with product thinking: identifying problems, designing practical solutions, and improving the experience for the people using the software.
 
